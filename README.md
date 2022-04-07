@@ -18,6 +18,6 @@
  <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg'>
  <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg'>
  <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg'>
- <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg'>
- <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg'>
+ <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plan.svg'>
+ <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plan.svg'>
 </div>
