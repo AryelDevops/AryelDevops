@@ -6,18 +6,19 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Bash" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg'>
   <img align="center" alt="Rafa-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg'>
-  <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg'>
-  <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg'>
-  <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg'>
- <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'>
- <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg'>
- <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg'>
- <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg'>
- <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg'>
- <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-plain.svg'>
- <img align="center" alt="Rafa-Dart" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg'>
+  <img align="center" alt="Rafa-Ansible" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg'>
+  <img align="center" alt="Rafa-Terraform" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg'>
+  <img align="center" alt="Rafa-Docker" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg'>
+  <img align="center" alt="Rafa-Kubernetes" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg'>
+  <img align="center" alt="Rafa-Aws" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg'>
+  <img align="center" alt="Rafa-Azure" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg'>
+  <img align="center" alt="Rafa-Gitlab" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg'>
+  <img align="center" alt="Rafa-Grafana" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg'>
+  <img align="center" alt="Rafa-Grafana" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg'>
+ 
+ 
 </div>
